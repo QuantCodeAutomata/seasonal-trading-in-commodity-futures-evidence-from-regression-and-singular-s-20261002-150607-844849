@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.log
+*.tmp
+/tmp/
+data/monthly_panel.csv
+data/*.csv
+data/*.parquet
+data/*.json
+# Raw API data dumps — never commit
+*.h5
+mlruns/
+optuna*.db

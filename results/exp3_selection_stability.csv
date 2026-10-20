@@ -1,0 +1,7 @@
+Model,Direction,Avg_C1_pct,Avg_R1_pct,C_cash_pct,V_cash_pct,Match_pct,n_comparable
+DVR,long,70.56,74.26,27.96,25.56,67.11,76
+DVR,short,45.56,49.81,54.44,50.0,78.0,50
+SSA,long,96.3,95.0,,,59.26,108
+SSA,short,95.74,97.22,,,50.0,108
+RLSSA,long,70.19,68.7,,,43.52,108
+RLSSA,short,71.3,69.63,,,44.44,108

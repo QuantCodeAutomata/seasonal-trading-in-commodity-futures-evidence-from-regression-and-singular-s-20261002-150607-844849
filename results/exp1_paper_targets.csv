@@ -1,0 +1,14 @@
+Strategy,CumRet,Sharpe,MaxDD
+DVR_long_classical,0.2966,0.245,-0.308
+DVR_long_normalised,0.278,0.24,-0.366
+DVR_short_classical,-0.1994,0.018,-0.494
+DVR_short_normalised,-0.0972,0.028,-0.427
+SSA_long_classical,-0.3241,0.014,-0.605
+SSA_long_normalised,-0.5776,-0.112,-0.812
+SSA_short_classical,-0.3583,0.119,-0.799
+SSA_short_normalised,-0.7548,-0.205,-0.867
+RLSSA_long_classical,-0.5764,-0.088,-0.721
+RLSSA_long_normalised,-0.7369,-0.365,-0.836
+RLSSA_short_classical,-0.0054,0.184,-0.825
+RLSSA_short_normalised,-0.8125,-0.288,-0.917
+BENCH,0.143,0.183,-0.415
